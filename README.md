@@ -1,2 +1,2 @@
-# passive-house-map
+# example-openLayer-click
 Created with CodeSandbox
